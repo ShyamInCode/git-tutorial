@@ -1,0 +1,12 @@
+STAGES: - 
+Local Directory --> Staging (Ready to Save) --> Commit (Checkpoint) --> Remote (Github)
+
+COMMANDS: -
+git init
+git add .
+git commit -m "updated feature"
+git push 
+git pull
+git remote add origin
+git checkout
+git branch
